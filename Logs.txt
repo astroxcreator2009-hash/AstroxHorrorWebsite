@@ -1,0 +1,13 @@
+1.0 - Create:
+index.html - strona główna
+DATA.html - strona do wpisania kodu do różnych stron
+NoseyData.html - strona z informacjami do Serii ARG Nosey Data
+AnomalyWorld.html - strona z informacjami do Serii ARG Anomaly World
+
+1.1 - Repair:
+Utworzenie Folderu DATA, zmiana nazwy DATA.html do index.html, przeniesienie index.html do Folderu DATA
+Utworzenie Folderu NoseyData, zmiana nazwy NoseyData.html do index.html, przeniesienie index.html do Folderu NoseyData
+Przeniesienie NDCSS do NoseyData
+Utworzenie Folderu AnomalyWorld, zmiana nazwy AnomalyWorld.html do index.html, przeniesienie index.html do Folderu AnomalyWorld
+Przeniesienie NDCSS do AnomalyWorld
+Powód: pojawianie się końcuwki .html do DATA, NoseyData i AnomalyWorld
